@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.exe
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.deps.json
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.runtimeconfig.json
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.runtimeconfig.dev.json
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.dll
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\ref\03.Travel Agency.dll
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\bin\Debug\net5.0\03.Travel Agency.pdb
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.AssemblyInfo.cs
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.dll
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\ref\03.Travel Agency.dll
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.pdb
+C:\Users\User\source\repos\Zavrushtanka\03.Travel Agency\obj\Debug\net5.0\03.Travel Agency.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.exe
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.deps.json
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.runtimeconfig.json
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.runtimeconfig.dev.json
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.dll
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\ref\Lqtno Obleklo.dll
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\bin\Debug\net5.0\Lqtno Obleklo.pdb
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.AssemblyInfo.cs
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.dll
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\ref\Lqtno Obleklo.dll
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.pdb
+C:\Users\User\source\repos\Zavrushtanka\Lqtno Obleklo\obj\Debug\net5.0\Lqtno Obleklo.genruntimeconfig.cache
